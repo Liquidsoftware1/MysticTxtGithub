@@ -1,1 +1,1 @@
-# MysticTxtGithub
+# MysticTxt
